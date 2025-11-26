@@ -34,7 +34,7 @@ Locations:
 ### 4. **Contact Page Simplified**
 - ❌ Removed contact form
 - ✅ Now shows 3 contact methods only:
-  1. **Email**: info@creativeart.com (for website portfolio & content)
+  1. **Email**: Forartpromotion@gmail.com (for website portfolio & content)
   2. **Instagram DM**: Both handles with direct links
   3. **PayPal**: Forartpromotion@gmail.com (for payments)
 - Clear instructions for each method
@@ -62,7 +62,7 @@ Locations:
 
 ## 📧 Contact Information Displayed
 
-- **Email**: info@creativeart.com (placeholder - you can change)
+- **Email**: Forartpromotion@gmail.com
 - **PayPal**: Forartpromotion@gmail.com
 - **Instagram 1**: @creativee_art
 - **Instagram 2**: @awesomee_art
@@ -99,7 +99,7 @@ Locations:
 2. Visit http://localhost:3000
 3. Test the payment modal on Packages page
 4. Check all pages to see Instagram handles
-5. Update the placeholder email (info@creativeart.com) if needed
+5. Email is now set to Forartpromotion@gmail.com
 6. Enjoy your yellow-themed, Instagram-integrated website!
 
 ## 📝 Notes

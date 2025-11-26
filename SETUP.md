@@ -211,7 +211,7 @@ When ready to deploy:
 
 ## Need Help?
 
-Check the main README.md or contact support at info@creativeart.com
+Check the main README.md or contact support at Forartpromotion@gmail.com
 
 Happy coding! 🚀
 

@@ -59,7 +59,7 @@ const PaymentModal = ({ isOpen, onClose, selectedPackage }) => {
               <p>Email us at:</p>
               <div className="contact-email">
                 <span className="icon">✉️</span>
-                <strong>info@creativeart.com</strong>
+                <strong>Forartpromotion@gmail.com</strong>
               </div>
               <p className="email-content-list">Include in your email:</p>
               <ul>

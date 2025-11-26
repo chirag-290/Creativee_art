@@ -28,8 +28,8 @@ const Contact = () => {
               <h2>Email Us</h2>
               <p className="method-description">Send us an email for inquiries, website portfolio, or package bookings</p>
               <div className="contact-detail">
-                <a href="mailto:info@creativeart.com" className="contact-link email-link">
-                  info@creativeart.com
+                <a href="mailto:Forartpromotion@gmail.com" className="contact-link email-link">
+                  Forartpromotion@gmail.com
                 </a>
               </div>
               <div className="usage-info">

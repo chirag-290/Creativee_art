@@ -176,7 +176,7 @@ MIT License - see LICENSE file for details
 
 ## 👥 Support
 
-For support, email: info@creativeart.com
+For support, email: Forartpromotion@gmail.com
 
 ---
 

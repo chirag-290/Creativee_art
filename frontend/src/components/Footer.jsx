@@ -54,7 +54,7 @@ const Footer = () => {
           <div className="footer-section">
             <h4>Contact</h4>
             <ul>
-              <li>Email: info@creativeart.com</li>
+              <li>Email: Forartpromotion@gmail.com</li>
               <li>PayPal: Forartpromotion@gmail.com</li>
               <li><Link to="/contact">Contact Methods</Link></li>
             </ul>

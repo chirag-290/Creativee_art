@@ -231,7 +231,7 @@ const Portfolio = () => {
           <p>Email or DM us on Instagram to discuss your project</p>
           <Link to="/contact" className="btn btn-primary">Contact Info</Link>
           <div className="portfolio-contact-info">
-            <p className="email-display">📧 info@creativeart.com</p>
+            <p className="email-display">📧 Forartpromotion@gmail.com</p>
             <div className="portfolio-ig-handles">
               <a href="https://www.instagram.com/creativee_.art/" target="_blank" rel="noopener noreferrer" className="portfolio-ig-link">
                 @creativee_art
