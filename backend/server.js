@@ -9,9 +9,12 @@ dotenv.config();
 // Initialize Express app
 const app = express();
 
-// Connect to MongoDB (commented out for now - uncomment when MongoDB is ready)
-// connectDB();
-console.log('⚠️  MongoDB connection disabled - uncomment connectDB() when ready');
+// Connect to MongoDB
+if (process.env.MONGODB_URI) {
+  connectDB();
+} else {
+  console.log('⚠️  MongoDB connection disabled - set MONGODB_URI environment variable');
+}
 
 // Middleware
 app.use(cors());
@@ -53,7 +56,7 @@ app.use((req, res) => {
 });
 
 // Start server
-const PORT = 8000;
+const PORT = process.env.PORT || 8000;
 app.listen(PORT, () => {
   console.log(`✅ Server running in ${process.env.NODE_ENV || 'development'} mode on port ${PORT}`);
   console.log(`✅ API available at: http://localhost:${PORT}/api/health`);
